@@ -1,0 +1,15 @@
+artifact_uri: mlruns/1/0a26d2fe663a4078903b75ca6cb1f551/artifacts
+end_time: 1712322403044
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 0a26d2fe663a4078903b75ca6cb1f551
+run_uuid: 0a26d2fe663a4078903b75ca6cb1f551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712322399851
+status: 3
+tags: []
+user_id: jahnaviedara
